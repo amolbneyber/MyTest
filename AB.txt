@@ -1,6 +1,10 @@
 AB
 Change from Branch 
+<<<<<<< HEAD
 
 HI Abhay
 
 1234
+=======
+Amol Master
+>>>>>>> refs/remotes/origin/master
